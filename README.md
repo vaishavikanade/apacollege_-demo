@@ -1,3 +1,3 @@
-# apacollege-demo
-this is my first git repository
+# apnacollege-demo
+this is my first git repository.
 athor-vaishavi kanade
